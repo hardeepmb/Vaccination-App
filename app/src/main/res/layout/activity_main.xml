@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:gravity="center"
-                android:text="Pin code of your area"
+                android:text="Pin code of your area yedya dokycha"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
